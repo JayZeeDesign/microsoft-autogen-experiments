@@ -1,0 +1,6 @@
+
+.env
+.cache/42/cache.db
+.cache/41/cache.db
+.vscode/settings.json
+OAI_CONFIG_LIST
